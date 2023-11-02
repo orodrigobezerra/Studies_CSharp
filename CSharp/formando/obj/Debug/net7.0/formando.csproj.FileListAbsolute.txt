@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/bin/Debug/net7.0/formando
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/bin/Debug/net7.0/formando.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/bin/Debug/net7.0/formando.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/bin/Debug/net7.0/formando.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/bin/Debug/net7.0/formando.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/refint/formando.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/formando.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/formando/obj/Debug/net7.0/ref/formando.dll

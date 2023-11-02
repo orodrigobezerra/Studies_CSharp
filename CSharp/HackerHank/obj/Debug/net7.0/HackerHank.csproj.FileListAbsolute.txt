@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/bin/Debug/net7.0/HackerHank
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/bin/Debug/net7.0/HackerHank.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/bin/Debug/net7.0/HackerHank.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/bin/Debug/net7.0/HackerHank.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/bin/Debug/net7.0/HackerHank.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/refint/HackerHank.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/HackerHank.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/HackerHank/obj/Debug/net7.0/ref/HackerHank.dll

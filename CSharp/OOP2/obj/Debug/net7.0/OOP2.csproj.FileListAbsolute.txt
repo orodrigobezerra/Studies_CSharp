@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/bin/Debug/net7.0/OOP2
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/bin/Debug/net7.0/OOP2.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/bin/Debug/net7.0/OOP2.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/bin/Debug/net7.0/OOP2.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/bin/Debug/net7.0/OOP2.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/refint/OOP2.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/OOP2.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/OOP2/obj/Debug/net7.0/ref/OOP2.dll

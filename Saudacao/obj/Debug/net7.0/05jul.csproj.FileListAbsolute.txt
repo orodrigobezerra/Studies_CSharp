@@ -1,0 +1,30 @@
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/bin/Debug/net7.0/05jul
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/bin/Debug/net7.0/05jul.deps.json
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/bin/Debug/net7.0/05jul.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/bin/Debug/net7.0/05jul.dll
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/bin/Debug/net7.0/05jul.pdb
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.dll
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/refint/05jul.dll
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.pdb
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/05jul.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Projetos em C/05jul/05jul/obj/Debug/net7.0/ref/05jul.dll
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/bin/Debug/net7.0/05jul
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/bin/Debug/net7.0/05jul.deps.json
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/bin/Debug/net7.0/05jul.runtimeconfig.json
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/bin/Debug/net7.0/05jul.dll
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/bin/Debug/net7.0/05jul.pdb
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.AssemblyInfo.cs
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.dll
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/refint/05jul.dll
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.pdb
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/05jul.genruntimeconfig.cache
+/Users/rodrigo/Documents/Estudos/IEFP/Projetos_C/05jul/obj/Debug/net7.0/ref/05jul.dll

@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/bin/Debug/net7.0/notas_escolares.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/bin/Debug/net7.0/notas_escolares.cs.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/bin/Debug/net7.0/notas_escolares.cs.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/bin/Debug/net7.0/notas_escolares.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/bin/Debug/net7.0/notas_escolares.cs.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/refint/notas_escolares.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/notas_escolares.cs.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/notas_escolares.cs/obj/Debug/net7.0/ref/notas_escolares.cs.dll

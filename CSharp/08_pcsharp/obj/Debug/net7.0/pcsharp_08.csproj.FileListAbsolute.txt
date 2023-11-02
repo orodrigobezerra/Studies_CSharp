@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/bin/Debug/net7.0/pcsharp_08
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/bin/Debug/net7.0/pcsharp_08.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/bin/Debug/net7.0/pcsharp_08.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/bin/Debug/net7.0/pcsharp_08.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/bin/Debug/net7.0/pcsharp_08.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/refint/pcsharp_08.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/pcsharp_08.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/01ago/pcsharp_08/obj/Debug/net7.0/ref/pcsharp_08.dll

@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/bin/Debug/net7.0/circulo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/bin/Debug/net7.0/circulo.cs.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/bin/Debug/net7.0/circulo.cs.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/bin/Debug/net7.0/circulo.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/bin/Debug/net7.0/circulo.cs.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/refint/circulo.cs.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/circulo.cs.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/circulo.cs/obj/Debug/net7.0/ref/circulo.cs.dll

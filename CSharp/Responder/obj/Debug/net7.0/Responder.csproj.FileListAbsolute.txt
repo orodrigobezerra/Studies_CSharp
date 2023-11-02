@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/bin/Debug/net7.0/Responder
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/bin/Debug/net7.0/Responder.deps.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/bin/Debug/net7.0/Responder.runtimeconfig.json
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/bin/Debug/net7.0/Responder.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/bin/Debug/net7.0/Responder.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.AssemblyInfo.cs
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/refint/Responder.dll
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.pdb
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/Responder.genruntimeconfig.cache
+/Users/rodrigo/Documents/IEFP/Programação em C/CSharp/Responder/obj/Debug/net7.0/ref/Responder.dll
